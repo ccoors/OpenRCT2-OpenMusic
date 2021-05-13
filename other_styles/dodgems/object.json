@@ -1,0 +1,21 @@
+{
+    "id": "auraspecs.music.dodgems",
+    "authors": [
+        "Karst van Galen Last"
+    ],
+    "version": "1.0",
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "dodgems.flac",
+                "name": "Dodgems Beat Style"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Dodgems Beat Style"
+        }
+    }
+}
